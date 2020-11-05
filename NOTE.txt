@@ -1,0 +1,13 @@
+1- Open home.html to run and view my works
+
+About How I done ...
+
+I tried to create some simple adaptive wesite which is u required mini project,
+and so I made website it belongs to my region. 
+
+When u click on the "Жарыя" and " Сонку жанылыктар" button , you will see there some data, 
+by the way I used some json data to show how requisted json data to my website. But is not related about my website.
+
+Conclusion:
+
+I realy made small and simple work as u required mini project.
